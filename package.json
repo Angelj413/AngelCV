@@ -4,8 +4,9 @@
   "description": "curriculum vitae",
   "main": "webpack.config.js",
   "dependencies": {
-    "react-dom": "^16.8.6",
-    "react": "^16.8.6"
+    "firebase": "^6.2.4",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   },
   "devDependencies": {
     "@babel/core": "^7.3.4",
